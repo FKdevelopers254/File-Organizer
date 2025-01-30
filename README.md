@@ -57,3 +57,9 @@ This software is licensed under the MIT License (see LICENSE file).
 * Create a new branch for bug fixes and features
 * Commit changes using `git commit -m "brief description of change"`
 * Test your code thoroughly before merging into main branch
+
+  ![Screenshot 2025-01-30 232511](https://github.com/user-attachments/assets/243ecbdc-f79d-47d8-ac33-d2e64bf5e4ea)
+
+![Screenshot 2025-01-30 232455](https://github.com/user-attachments/assets/7b6b71cf-455d-4042-93fb-59a35feee528)
+
+  
